@@ -47,13 +47,14 @@ Players enter a virtual environment and rely on sound intensity and direction to
 
 ## 📸 Screenshots
 
-_Add screenshots here._
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/78432a6f-f069-439c-b26a-6383e2e5f1e9" />
+
 
 ---
 
 ## 🎥 Demo
 
-_Add demo video link here._
+Link : https://youtu.be/LCTxzguOghc?si=lkd-Nj4gOTGP0w71
 
 ---
 
